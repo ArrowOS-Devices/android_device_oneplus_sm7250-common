@@ -3,3 +3,6 @@ persist.vendor.dpm.feature=11
 
 # Enable IORap I/O Prefetching
 persist.device_config.runtime_native_boot.iorap_perfetto_enable=true
+
+# Bluetooth
+bluetooth.device.class_of_device=90,2,12
